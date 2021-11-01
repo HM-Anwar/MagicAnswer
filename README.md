@@ -1,6 +1,6 @@
 # magic_answers
 
-A new Flutter project.
+<img src="https://github.com/HM-Anwar/MagicAnswer/blob/main/screenshot/Screenshot.png" height="600px">
 
 ## Getting Started
 
